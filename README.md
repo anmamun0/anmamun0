@@ -26,7 +26,7 @@
   <a href="https://www.stackoverflow.com/anmamun0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
-  <a href="https://www.codeforce.com/anmamun0/" target="_blank">
+  <a href="https://codeforces.com/profile/anmamun0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=codeforce&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
   </a>
 </div>
