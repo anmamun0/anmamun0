@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋 I am AN Mamun</h1>
+<h1 align="center">Hello 👋 I am AN Mamun</h1>
 
 ###
 
-<h3 align="center">A Passionate Web backend Developer and Compititive Programmer in BD</h3>
+<h3 align="center">A Passionate Web Backend Developer and Compititive Programmer in BD</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">📌 I’m currently working on Problem Solving<br><br>🌱 I’m currently learning Data Science, Software Seveloping<br><br>👨‍💻 All of my projects are available at https://anmamun0.netlify.app/<br><br>💬 Ask me about you any problem's</p>
+<p align="left">📌 I’m currently working on Problem Solving and Software Development.<br><br>🌱 I’m currently learning Data Science and software development.<br><br>👨‍💻 All of my projects are available at https://anmamun0.netlify.app/<br><br>💬 Ask me about you any problem's</p>
 
 ###
 
@@ -71,6 +71,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
 </div>
 
 ###
