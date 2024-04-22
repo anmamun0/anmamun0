@@ -2,10 +2,11 @@
 
 ###
 
-<h3 align="center">A Passionate Web Backend Developer and Compititive Programmer in BD</h3>
+<h3 align="center">A Passionate Software Engineer and Competitive Programmer in BD</h3>
 
 ###
-
+### ✈️: &emsp;Connect with me!
+<hr/>
 <div align="left">
   <a href="https://www.linkedin.com/in/anmamun0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -39,7 +40,7 @@
 
 ###
 
-<p align="left">📌 I’m currently working on Problem Solving and Software Development.<br><br>🌱 I’m currently learning Data Science and software development.<br><br>👨‍💻 All of my projects are available at https://anmamun0.netlify.app/<br><br>💬 Ask me about you any problem's</p>
+<p align="left">📌 I’m currently working on Problem Solving and Software Development.<br>🌱 I’m currently learning Data Science and SE and MI .<br>👨‍💻 All of my projects are available at https://anmamun0.netlify.app/<br></p>
 
 ###
 
@@ -52,8 +53,7 @@
 ###
 
 <h3 align="left">🛠 Language and Tool's</h3>
-
-###
+<hr/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
@@ -87,20 +87,22 @@
   <h1 align="center">Github Stats</h1>
   <tr>
     <td colspan="1"><img alt="anmamun0 :: Profile Stats"
-        src="https://github-readme-stats.vercel.app/api?username=anmamun0&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
+        src="https://github-readme-stats.vercel.app/api?username=anmamun0&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /> 
     </td>
     <td colspan="2"><img alt="anmamun0 :: Top Langs]"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmamun0&langs_count=14&theme=blue-green&layout=compact&hide=html">
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmamun0&langs_count=14&theme=blue-green&layout=compact&hide=html"> 
     </td>
   </tr>
   <tr>
     <td colspan="3" align="center"><img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com?user=anmamun0&theme=blue-green&hide_border=true">
-  </tr>
+        src="https://github-readme-streak-stats.herokuapp.com?user=anmamun0&theme=blue-green&hide_border=true"><p><br></p>
+  </tr> 
    <td colspan="2" align="center" ><img alt="anmamun0 :: Leetcode" align="center"
-        src="https://leetcard.jacoblin.cool/anmamun0?username=anmamun0&langs_count=14&theme=blue-green&layout=compact&hide=html" >
+        src="https://leetcard.jacoblin.cool/anmamun0?username=anmamun0&langs_count=14&theme=blue-green&layout=compact&hide=html" > <p><br></p>
   </tr>
+  
 </table>
-</p>
+
+</p> 
 
 <!--src="https://leetcard.jacoblin.cool/anmamun0?theme=dark&font=Delius" width="300"> --!>
