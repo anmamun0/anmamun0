@@ -81,19 +81,26 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<br/>
+<p align="center">
+<table align="center">
+  <h1 align="center">Github Stats</h1>
+  <tr>
+    <td colspan="1"><img alt="anmamun0 :: Profile Stats"
+        src="https://github-readme-stats.vercel.app/api?username=anmamun0&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
+    </td>
+    <td colspan="2"><img alt="anmamun0 :: Top Langs]"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmamun0&langs_count=14&theme=blue-green&layout=compact&hide=html">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img align="center"
+        src="https://github-readme-streak-stats.herokuapp.com?user=anmamun0&theme=blue-green&hide_border=true">
+  </tr>
+   <td colspan="2" align="center" ><img alt="anmamun0 :: Leetcode" align="center"
+        src="https://leetcard.jacoblin.cool/anmamun0?username=anmamun0&langs_count=14&theme=blue-green&layout=compact&hide=html" >
+  </tr>
+</table>
+</p>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmamun0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anmamun0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-![LeetCode Stats](https://leetcard.jacoblin.cool/anmamun0?theme=dark&font=Delius)
+<!--src="https://leetcard.jacoblin.cool/anmamun0?theme=dark&font=Delius" width="300"> --!>
