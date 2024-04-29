@@ -3,9 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines= Im%20Addicted%20to%20Competitive%20Programming;Developer%20of%20Python%20Django;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-
 </p>
-
 <h3 align="center">Hey there, I'm <a href="https://github.com/anmamun0">AN. Mamun</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
@@ -61,7 +59,6 @@
       </td>
     </tr>
   </table>
-
 <!-- Sponsor
    <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
 -->
@@ -78,8 +75,6 @@
   </a> 
 </p>
 
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -87,8 +82,8 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=anmamun0&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anmamun0&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img alt="anmamun0 :: Leetcode" align="center"
-        src="https://leetcard.jacoblin.cool/anmamun0?username=anmamun0&langs_count=14&theme=dark&font=Delius"> <p><br></p>
+  <img alt="anmamun0 :: Leetcode" align="center" src="https://leetcode-badge-sage.vercel.app/badge/anmamun0?theme=dark&bgColor=282828&border_radius=10"> <p><br></p>
+ <!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=anmamun0&theme=onedark&filter=comp&border=no-border">  <p><br></p>  !-->
 </div>
 <br/><br/>
 
@@ -98,6 +93,4 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-
 <hr/>
-<!--src="https://leetcard.jacoblin.cool/anmamun0?theme=dark&font=Delius" width="300"> --!>
