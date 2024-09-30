@@ -1,11 +1,10 @@
 <h3 align="center">Hey there, I'm <a href="https://github.com/anmamun0">AN. Mamun</a></h3>
+<h4 align="center">Software Developer | Problem Solver | Tech Enthusiast</h4>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines= Im%20Addicted%20to%20Competitive%20Programming;Developer%20of%20Python%20Django;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
-
-</p>
-<h4 align="center">Software Developer | Problem Solver | Tech Enthusiast</h4>
-
+  
 <p align="center"> 
   <a href="https://www.linkedin.com/in/anmamun0" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/anmamun0?tab=repositories&sort=stargazers">
