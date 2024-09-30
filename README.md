@@ -101,7 +101,7 @@ Project Link: [https://anmamun0.netlify.app/)
 <p> FramWord</p>
 <p align="left"> 
   <a href="https://github.com/anmamun0">
-   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,django,flask,aws" alt="Technology Skills Icons">
+   <img src="https://skillicons.dev/icons?i=django,react,flask,tailwind,aws" alt="Technology Skills Icons">
   </a> 
 </p>
 
