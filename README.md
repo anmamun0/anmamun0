@@ -84,26 +84,36 @@ Project Link: [https://anmamun0.netlify.app/)
 <br>
 5. Has 100+ ⭐  on the repo.
 
-## 🛠 Languages and Tools
-<p> Programming Language</p>
-<p align="left"> 
-  <a href="https://github.com/anmamun0">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java"> 
-  </a> 
-</p>
 
-<p> DataBases Language</p>
-<p align="left"> 
-  <a href="https://github.com/anmamun0">
-   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Technology Skills Icons">
-  </a> 
-</p>
-<p> FramWord</p>
-<p align="left"> 
-  <a href="https://github.com/anmamun0">
-   <img src="https://skillicons.dev/icons?i=django,react,flask,tailwind,aws" alt="Technology Skills Icons">
-  </a> 
-</p>
+## 🛠 Languages and Tools
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="padding: 8px; border: none;">Programming Languages</td>
+    <td style="padding: 8px; border: none; text-align: left;">
+      <a href="https://github.com/anmamun0">
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,java">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border: none;">Database Languages</td>
+    <td style="padding: 8px; border: none; text-align: left;">
+      <a href="https://github.com/anmamun0">
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Database Icons">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border: none;">Frameworks</td>
+    <td style="padding: 8px; border: none; text-align: left;">
+      <a href="https://github.com/anmamun0">
+        <img src="https://skillicons.dev/icons?i=django,react,flask,tailwind,aws" alt="Framework Icons">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
