@@ -37,26 +37,14 @@
 </div>
  </p>
 
+<br>
+    <a href="https://anmamun0.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codepen&label=&color=0080FE&logoColor=white&labelColor=&style=plastic" height="25" alt="Portfolio">
+    </a>
+    <a href="https://drive.google.com/uc?export=view&id=1vU8wurSY9d3jdd6Wj_3YtpQUktxFWU2_">
+      <img src="https://img.shields.io/static/v1?message=Resume/CV&logo=googledrive&label=&color=fff&logoColor=0080FE&labelColor=white&style=plastic" height="25" alt="Resume/CV">
+    </a>
 
- <h4>
-## Profile Views 
-</h4>
-  <table> 
-    <tr>
-      <td> 
-          <div align="left">
-              <a href="https://anmamun0.netlify.app/" target="_blank">
-                <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codepen&label=&color=0080FE&logoColor=white&labelColor=&style=plastic" height="25" alt="codepen logo"  />
-              </a>
-          </div>
-      </td> 
-          <td>
-            <a href="https://drive.google.com/uc?export=view&id=1vU8wurSY9d3jdd6Wj_3YtpQUktxFWU2_">
-           <img src="https://img.shields.io/static/v1?message=Resume/CV &logo=googledrive&label=&color=fff&logoColor=0080FE&labelColor=white&style=plastic" height="25" alt="Google Drive Logo" />
-        </a>
-          </td>
-     </tr>
-  </table>
 <!-- Sponsor
    <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
 -->
@@ -80,8 +68,7 @@ Project Link: [https://anmamun0.netlify.app/)
 <br>
 3. Applied Pytest for feature-level unit testing and implemented GitHub Actions for appropriate test pipeline execution.
 <br>
-4. Created proper documentation and followed open-source best practices such as branch naming conventions, commit messages, issue tracking, etc.
-<br>
+4. Created proper documentation and followed open-source best practices such as branch naming conventions, commit messages, issue tracking, etc. 
 5. Has 100+ ⭐  on the repo.
 
 
