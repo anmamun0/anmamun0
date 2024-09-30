@@ -5,75 +5,107 @@
 
 </p>
 <h3 align="center">Hey there, I'm <a href="https://github.com/anmamun0">AN. Mamun</a></h3>
-<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+<h4 align="center">Software Developer | Problem Solver | Tech Enthusiast</h4>
 
-<p align="center">
-  <a href="https://discord.gg/HACk#4796" target="_blank" ><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<p align="center"> 
   <a href="https://www.linkedin.com/in/anmamun0" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/anmamun0?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thinkright20?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
 <a href="https://github.com/anmamun0"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/anmamun0"> <img src="https://komarev.com/ghpvc/?username=anmamun0&style=for-the-badge&color=brightgreen"> </a>
  </p>
  
  <p>
 <div align="center">
   </a>
-  <a href="https://www.twitter.com/anmamun0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"alt="twitter logo"  />
+  <a href="https://www.leetcode.com/anmamun0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=4e4e4d&logoColor=f9762d&labelColor=3f3f3f&style=for-the-badge"alt="leetcode logo"  />
   </a>
-  <a href="https://www.instagram.com/anmamun0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"  />
+
+  <a href="https://www.codeforces.com/profile/anmamun0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=codeforces&logo=codeforces&label=&color=4e4e4d&logoColor=000&labelColor=fff&style=for-the-badge"alt="leetcode logo"  />
   </a>
   <a href="https://www.hackerrank.com/anmamun0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge"  alt="hackerrank logo"  />
   </a>
- 
-  <a href="https://stackoverflow.com/users/23257459/anmamun0" target="_blank">
+   <a href="https://stackoverflow.com/users/23257459/anmamun0" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge"  alt="stackoverflow logo"  />
+  </a> 
+  
+  <a href="https://www.facebook.com/anmamun0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="facebook logo"  />
   </a>
-  <a href="https://codeforces.com/profile/anmamun0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=codeforce&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" alt="slack logo"  />
 </div>
-   
  </p>
- 
-## Profile Views 
 
-  <table>
+
+ <h4>
+## Profile Views 
+</h4>
+  <table> 
     <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-      <th>Portfolio</th>
-    </tr>
-    <tr>
-      <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/anmamun0"> <img src="https://komarev.com/ghpvc/?username=anmamun0&style=for-the-badge&color=brightgreen"> </a>
-      </td>
       <td> 
-        <div align="left">
-            <a href="https://anmamun0.netlify.app/" target="_blank">
-              <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codepen&label=&color=0080FE&logoColor=white&labelColor=&style=plastic" height="25" alt="codepen logo"  />
-            </a>
-        </div>
-      </td>
-    </tr>
+          <div align="left">
+              <a href="https://anmamun0.netlify.app/" target="_blank">
+                <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codepen&label=&color=0080FE&logoColor=white&labelColor=&style=plastic" height="25" alt="codepen logo"  />
+              </a>
+          </div>
+      </td> 
+          <td>
+            <a href="https://drive.google.com/uc?export=view&id=1vU8wurSY9d3jdd6Wj_3YtpQUktxFWU2_">
+           <img src="https://img.shields.io/static/v1?message=Resume/CV &logo=googledrive&label=&color=fff&logoColor=0080FE&labelColor=white&style=plastic" height="25" alt="Google Drive Logo" />
+        </a>
+          </td>
+     </tr>
   </table>
 <!-- Sponsor
    <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
 -->
-## What I'm Doing
 
-- 🔭 Working on Problem Solving and Software Development
-- 🌱 Learning Data Science and SE and MI & more
-- 📫 How to contact me: anmamun0 (Discord)
+ 
+<p> 
+I am a dedicated software developer with a passion for solving complex problems and creating efficient, scalable solutions. With expertise in multiple programming languages and a strong foundation in algorithms, I thrive in dynamic, fast-paced environments. I have extensive experience in competitive programming, where I've solved over 1000 problems on platforms like LeetCode and Codeforces, and achieved a 2-star rating on CodeChef.
+
+Driven by a constant desire to learn and improve, I am currently enhancing my skills through the Phitron platform, with a focus on mastering data structures, algorithms, and advanced programming techniques. I aim to contribute meaningfully to tech-driven projects that challenge and push the boundaries of innovation. 
+</p> 
+
+ <h4>
+## OPENSOURCE EXPERIENCES
+</h4> 
+**CF STATS** | _PERSONAL PROJECT_  
+Project Link: [https://anmamun0.netlify.app/)
+<br>
+1. Utilized GitHub action to generate real-time Codeforces user stat card and badges for readme files.
+<br>
+2. Implemented Python design patterns to facilitate the consumption of Codeforces API in a scaleable manner.
+<br>
+3. Applied Pytest for feature-level unit testing and implemented GitHub Actions for appropriate test pipeline execution.
+<br>
+4. Created proper documentation and followed open-source best practices such as branch naming conventions, commit messages, issue tracking, etc.
+<br>
+5. Has 100+ ⭐  on the repo.
 
 ## 🛠 Languages and Tools
-<p align="center"> 
+<p> Programming Language</p>
+<p align="left"> 
   <a href="https://github.com/anmamun0">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,linux,git,mongodb,vscode,github,css,html,bots"> 
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java"> 
   </a> 
 </p>
+
+<p> DataBases Language</p>
+<p align="left"> 
+  <a href="https://github.com/anmamun0">
+   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Technology Skills Icons">
+  </a> 
+</p>
+<p> FramWord</p>
+<p align="left"> 
+  <a href="https://github.com/anmamun0">
+   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,django,flask,aws" alt="Technology Skills Icons">
+  </a> 
+</p>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
