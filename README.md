@@ -86,27 +86,25 @@ Project Link: [https://anmamun0.netlify.app/)
 
 
 ## 🛠 Languages and Tools
-
+<div align="center">
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="padding: 8px; border: none;">Programming Languages</td>
-    <td style="padding: 8px; border: none; text-align: left;">
-      <a href="https://github.com/anmamun0">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,java">
-      </a>
-    </td>
+    <td style="padding: 8px; border: none; text-align: center;">Programming Languages</td>
+    <td style="padding: 8px; border: none; text-align: center;">Database Languages</td>
+    <td style="padding: 8px; border: none; text-align: center;">Frameworks</td>
   </tr>
   <tr>
-    <td style="padding: 8px; border: none;">Database Languages</td>
-    <td style="padding: 8px; border: none; text-align: left;">
+    <td style="padding: 8px; border: 2px solid black; text-align: center;">
+      <a href="https://github.com/anmamun0">
+        <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Programming Icons">
+      </a>
+    </td>
+    <td style="padding: 8px; border: 2px solid black; text-align: center;">
       <a href="https://github.com/anmamun0">
         <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Database Icons">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border: none;">Frameworks</td>
-    <td style="padding: 8px; border: none; text-align: left;">
+    <td style="padding: 8px; border: 2px solid black; text-align: center;">
       <a href="https://github.com/anmamun0">
         <img src="https://skillicons.dev/icons?i=django,react,flask,tailwind,aws" alt="Framework Icons">
       </a>
@@ -114,6 +112,7 @@ Project Link: [https://anmamun0.netlify.app/)
   </tr>
 </table>
 
+</div>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
