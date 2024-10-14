@@ -2,7 +2,7 @@
   Hey there, I'm <a href="https://github.com/anmamun0">AN. Mamun</a> 
   <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> 
 </h3>
-<h4 align="center">🌟 Software Developer | Problem Solver | Tech Enthusiast 🌟</h4>
+<h3 align="center">🌟 Software Developer | Problem Solver | Tech Enthusiast 🌟</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Developer%20of%20Python%20Django;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=800&height=45&color=ff79c6&vCenter=true&pause=1000&size=25"/>
