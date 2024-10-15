@@ -43,7 +43,8 @@
 
 <!-- Sponsor
    <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
---> 
+ <img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" />  -->
+
   🚀 I am a dedicated software developer with a passion for solving complex problems and creating efficient, scalable solutions. 
   With expertise in multiple programming languages and a strong foundation in algorithms, I thrive in dynamic, fast-paced environments. 
   I have extensive experience in competitive programming, having solved over `1500 problems` on platforms like `LeetCode` and `Codeforces`, and achieved a `2-star` rating on CodeChef`.
