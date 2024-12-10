@@ -143,7 +143,7 @@
       </a>
     </td>
     <td align="center">
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=anmamun0&show_icons=true&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF" alt="anmamun0" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=anmamun0&show_icons=true&theme=transparent&text_color=A6A6A6&icon_color=E25822&bg_color=161B22&border_color=FFFFFF&count_private=true&include_all_commits=true" alt="anmamun0" />
     </td>
   </tr>
   
