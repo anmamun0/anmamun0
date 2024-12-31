@@ -2,7 +2,7 @@
   Hey there, I'm <a href="https://github.com/anmamun0">AN. Mamun</a> 
   <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> 
 </h3>
-<h3 align="center">🌟 Software Developer | Problem Solver | Tech Enthusiast 🌟</h3>
+<h3 align="center">🌟 Software Engineer | Problem Developer | Competitive Programmert 🌟</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Developer%20of%20Python%20Django;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=800&height=45&color=ff79c6&vCenter=true&pause=1000&size=25"/>
@@ -25,12 +25,12 @@
 
 
 <div align="center">
-  <a href="https://anmamun0.netlify.app/" target="_blank" style="text-decoration: none;">
+  <a href="https://anmamun0.vercel.app/" target="_blank" style="text-decoration: none;">
     <img alt="Portfolio" title="Portfolio" 
          src="https://img.shields.io/badge/🌐%20Portfolio-0080FE?style=for-the-badge&logo=codepen&logoColor=white&labelColor=007BFF&color=000" 
          style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/>
   </a>
-  <a href="https://drive.google.com/uc?export=view&id=1vU8wurSY9d3jdd6Wj_3YtpQUktxFWU2_" target="_blank" style="text-decoration: none;">
+  <a href="https://anmamun0.vercel.app/src/image/AN%20Mamun%20-%20Software%20Engineer-Resume.pdf" target="_blank" style="text-decoration: none;">
     <img alt="Resume" title="Resume" 
          src="https://img.shields.io/badge/📄%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=D50000&color=fff" 
          style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/>
@@ -45,20 +45,19 @@
    <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
  <img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" />  -->
 
-  🚀 I am a dedicated software developer with a passion for solving complex problems and creating efficient, scalable solutions. 
-  With expertise in multiple programming languages and a strong foundation in algorithms, I thrive in dynamic, fast-paced environments. 
-  I have extensive experience in competitive programming, having solved over `1500 problems` on platforms like `LeetCode` and `Codeforces`, and achieved a `2-star` rating on CodeChef`.
-  
-  <br>
-  🌱 Driven by a constant desire to learn and improve, I am currently enhancing my skills through the Phitron platform, focusing on mastering data structures, algorithms, and advanced programming techniques. 
-  My goal is to contribute meaningfully to tech-driven projects that challenge and push the boundaries of innovation.
+  🚀 
+ I’m a Software Engineer and Python Developer with a strong focus on backend development, particularly using Django REST Framework. 
+ <br>
+ My journey in competitive programming has allowed me to solve over **1500 problems** across various platforms in just 1 year. I have a *LeetCode* rating of 1492 after solving 800+ problems, and on *Codeforces*, I’ve solved 400+ problems, achieving the highest rating of 1065. Additionally, I’m a **2-star** coder on *CodeChef*, with a highest rating of 1429. I’ve also earned 5-star rankings on *HackerRank*
+ in Problem Solving, C++, Python, and MySQL, and 4-star in C and Java. I’m always up for a challenge and passionate about solving complex problems with clean, efficient code.
+
  
 
 <h4 style="color: #FF5733;">✨ OPENSOURCE EXPERIENCES ✨</h4>
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
 
-  <p style="color: #555;">Project Link: <a href="https://anmamun0.netlify.app/" style="color: #0080FE;">https://anmamun0.netlify.app/</a></p>
+  <p style="color: #555;">Project Link: <a href="https://anmamun0.vercel.app/" style="color: #0080FE;">https://anmamun0.netlify.app/</a></p>
   <ul style="color: #444;">
     <li>✅ Utilized GitHub action to generate real-time Codeforces user stat card and badges for README files.</li>
     <li>✅ Implemented Python design patterns to facilitate the consumption of the Codeforces API in a scalable manner.</li>
@@ -82,54 +81,52 @@
     </a>
     <a href="https://stackoverflow.com/users/23257459/anmamun0" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=F58025&logoColor=white&labelColor=4A4A4A&style=for-the-badge" alt="StackOverflow Logo" />
-    </a>
-    <a href="https://www.facebook.com/anmamun0/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3B5998&logoColor=white&labelColor=4A4A4A&style=for-the-badge" alt="Facebook Logo" />
-    </a>
+    </a> 
   </div>
 </p>
 
-
-
-
-
-
-
-<br>
-
-
-
  
  
-## ⚙️ Languages and Tools 
+<h3> ⚙️ Languages and Tools </h3>
 <div align="center">
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="padding: 8px; border: none; text-align: center;">Programming Languages</td>
-    <td style="padding: 8px; border: none; text-align: center;">Database Languages</td>
-    <td style="padding: 8px; border: none; text-align: center;">Frameworks</td>
-  </tr>
-  <tr>
-    <td style="padding: 8px; border: 2px solid black; text-align: center;">
-      <a href="https://github.com/anmamun0">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Programming Icons">
-      </a>
-    </td>
-    <td style="padding: 8px; border: 2px solid black; text-align: center;">
-      <a href="https://github.com/anmamun0">
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Database Icons">
-      </a>
-    </td>
-    <td style="padding: 8px; border: 2px solid black; text-align: center;">
-      <a href="https://github.com/anmamun0">
-        <img src="https://skillicons.dev/icons?i=django,react,flask,tailwind,aws" alt="Framework Icons">
-      </a>
-    </td>
-  </tr>
-</table>
-
+  <table style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td style="padding: 8px; border: none; text-align: center;">Programming Languages</td>
+      <td style="padding: 8px; border: none; text-align: center; text:center;">Database Languages</td>
+      <td style="padding: 8px; border: none; text-align: center;">Frameworks</td>
+      <td style="padding: 8px; border: none; text-align: center;">Tools & Cloud DevOps</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">
+        <a href="https://github.com/anmamun0">
+          <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,kotlin" alt="Programming Icons">
+        </a>
+      </td> 
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">
+        <a href="https://github.com/anmamun0">
+          <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" alt="Database Icons">
+        </a>
+      </td>
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">
+        <a href="https://github.com/anmamun0">
+          <img src="https://skillicons.dev/icons?i=django,react,flask,tailwind,bootstrap" alt="Framework Icons">
+        </a>
+      </td>
+      <td style="padding: 8px; border: 2px solid black; text-align: center;">
+        <a href="https://github.com/anmamun0">
+          <img src="https://skillicons.dev/icons?i=git,github,aws,firebase,linux" alt="Tools & Cloud DevOps Icons">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h2>🔗 Performance Overview 🌟 </h2> 
  
