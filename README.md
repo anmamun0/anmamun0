@@ -2,8 +2,8 @@
   Hey there, I'm <a href="https://github.com/anmamun0">AN. Mamun</a> 
   <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height="40px" width="40px"/> 
 </h3>
-<h3 align="center">🌟 Software Engineer | Problem Developer | Competitive Programmert 🌟</h3>
-
+<h3 align="center">🌟 Software Engineer | Python Developer | Competitive Programmer 🌟</h3>
+ 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Addicted%20to%20Competitive%20Programming;Developer%20of%20Python%20Django;3%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20%26%20Growing&font=Fira%20Code&center=true&width=800&height=45&color=ff79c6&vCenter=true&pause=1000&size=25"/>
 </p>
@@ -30,7 +30,7 @@
          src="https://img.shields.io/badge/🌐%20Portfolio-0080FE?style=for-the-badge&logo=codepen&logoColor=white&labelColor=007BFF&color=000" 
          style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/>
   </a>
-  <a href="https://anmamun0.vercel.app/src/image/AN%20Mamun%20-%20Software%20Engineer-Resume.pdf" target="_blank" style="text-decoration: none;">
+  <a href="https://anmamun0.vercel.app/src/image/anMamun_Software_Engineer-Resume.pdf" target="_blank" style="text-decoration: none;">
     <img alt="Resume" title="Resume" 
          src="https://img.shields.io/badge/📄%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=D50000&color=fff" 
          style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/>
@@ -44,31 +44,39 @@
 <!-- Sponsor
    <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
  <img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" />  -->
-
-  🚀 
+ <p>   🚀 
  I’m a Software Engineer and Python Developer with a strong focus on backend development, particularly using Django REST Framework. 
  <br>
  My journey in competitive programming has allowed me to solve over **1500 problems** across various platforms in just 1 year. I have a *LeetCode* rating of 1492 after solving 800+ problems, and on *Codeforces*, I’ve solved 400+ problems, achieving the highest rating of 1065. Additionally, I’m a **2-star** coder on *CodeChef*, with a highest rating of 1429. I’ve also earned 5-star rankings on *HackerRank*
  in Problem Solving, C++, Python, and MySQL, and 4-star in C and Java. I’m always up for a challenge and passionate about solving complex problems with clean, efficient code.
+</p>
 
  
+
+
+
 
 <h4 style="color: #FF5733;">✨ OPENSOURCE EXPERIENCES ✨</h4>
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
 
-  <p style="color: #555;">Project Link: <a href="https://anmamun0.vercel.app/" style="color: #0080FE;">https://anmamun0.netlify.app/</a></p>
-  <ul style="color: #444;">
-    <li>✅ Utilized GitHub action to generate real-time Codeforces user stat card and badges for README files.</li>
-    <li>✅ Implemented Python design patterns to facilitate the consumption of the Codeforces API in a scalable manner.</li>
-    <li>✅ Applied Pytest for feature-level unit testing and implemented GitHub Actions for appropriate test pipeline execution.</li>
-    <li>✅ Created proper documentation and followed open-source best practices such as branch naming conventions, commit messages, issue tracking, etc.</li>
-    <li>⭐ Has 100+ stars on the repo.</li>
-  </ul>
+### 🎓 TrueLearner – Empowering Education Online
+ TrueLearner is an interactive e-learning platform that connects students with expert instructors, making education accessible and engaging.
+
+🚀 Key Features
+- ✅ For Students: Enroll in courses, learn at your own pace, track progress, and engage with instructors.
+- ✅ For Instructors: Create and manage courses, upload high-quality content, monitor student engagement, and monetize expertise.
+- ✅ For Admins: Oversee users, manage courses, and track platform analytics for seamless operation.
+
+Built with React.js, Tailwind CSS, Django REST Framework, PostgreSQL, and secured with Token authentication.
+
+<p style="color: #555;">👉 Explore TrueLearner: <a href="https://truelearner.vercel.app/" style="color: #0080FE;">https://truelearner.vercel.app/</a></p>
+   
 </div>
 
+<br>
 <p>
-  <h4 style="color: #2C3E50; text-align: center; font-family: 'Arial', sans-serif;">🌟 My Competitive Programming Profiles 🌟</h4>
+  <h3 style="color: #2C3E50; text-align: center; font-family: 'Arial', sans-serif;">🌟 My Competitive Programming Profiles 🌟</h3>
   <div align="center" style="margin: 20px 0;">
     <a href="https://www.leetcode.com/anmamun0/" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000&logoColor=white&labelColor=4A4A4A&style=for-the-badge" alt="LeetCode Logo" />
