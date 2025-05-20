@@ -45,9 +45,8 @@
    <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
  <img src="https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" height="40px" width="40px" />  -->
  <p>   🚀 
- I’m a Software Engineer and Python Developer with a strong focus on backend development, particularly using Django REST Framework. 
- <br>
- My journey in competitive programming has allowed me to solve over <b>1500 problems </b>  across various platforms in just 1 year. I have a LeetCode rating of 1492 after solving 800+ problems, and on Codeforces, I’ve solved 400+ problems, achieving the highest rating of 1065. Additionally, I’m a <b>2-star</b> coder on CodeChef, with a highest rating of 1429. I’ve also earned 5-star rankings on HackerRank
+ I’m a Software Engineer and Python Developer with a strong focus on backend development, particularly using Django REST Framework with React.js.
+My journey in competitive programming has allowed me to solve over <b>1500 problems </b>  across various platforms in just 1 year. I have a LeetCode rating of 1492 after solving 800+ problems, and on Codeforces, I’ve solved 400+ problems, achieving the highest rating of 1065. Additionally, I’m a <b>2-star</b> coder on CodeChef, with a highest rating of 1429. I’ve also earned 5-star rankings on HackerRank
  in Problem Solving, C++, Python, and MySQL, and 4-star in C and Java. I’m always up for a challenge and passionate about solving complex problems with clean, efficient code.
 </p>
 
